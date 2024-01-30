@@ -1,0 +1,151 @@
+body {
+  background-color: chartreuse;
+}
+.btn-1 {
+  height: 60px;
+  width: 60px;
+  margin-top: 220px;
+  margin-left: 560px;
+  position: absolute;
+  font-size: 25px;
+}
+.btn-2 {
+  height: 60px;
+  width: 60px;
+  margin-top: 220px;
+  margin-left: 620px;
+  font-size: 25px;
+  position: absolute;
+}
+.btn-3 {
+  height: 60px;
+  width: 60px;
+  margin-top: 220px;
+  font-size: 25px;
+  margin-left: 680px;
+  position: absolute;
+}
+.btn-4 {
+  height: 60px;
+  width: 60px;
+  margin-top: 260px;
+  margin-left: 560px;
+  position: absolute;
+  font-size: 25px;
+}
+.btn-5 {
+  height: 60px;
+  width: 60px;
+  font-size: 25px;
+  margin-top: 260px;
+  margin-left: 620px;
+  position: absolute;
+}
+.btn-6 {
+  height: 60px;
+  width: 60px;
+  margin-top: 260px;
+  font-size: 25px;
+  margin-left: 680px;
+  position: absolute;
+}
+.btn-7 {
+  height: 60px;
+  width: 60px;
+  margin-top: 300px;
+  margin-left: 560px;
+  font-size: 25px;
+  position: absolute;
+}
+.btn-8 {
+  height: 60px;
+  width: 60px;
+  margin-top: 300px;
+  margin-left: 620px;
+  position: absolute;
+  font-size: 25px;
+}
+.btn-9 {
+  height: 60px;
+  width: 60px;
+  margin-top: 300px;
+  margin-left: 680px;
+  position: absolute;
+  font-size: 25px;
+}
+.pla-1,
+.pla-2 {
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: capitalize;
+  font-weight: bolder;
+  position: absolute;
+  text-decoration: double;
+  height: 120px;
+  width: 350px;
+}
+.pla-1 {
+  margin-left: 175px;
+  margin-top: 150px;
+  font-size: 80px;
+  background-color:rgb(232, 121, 3);
+  
+}
+.pla-2 {
+  margin-left: 820px;
+  margin-top: 150px;
+  /* font-size: 80px; */
+}
+.acctive1,.acc{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 520px;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.acc{
+    margin-left: 680px;
+}
+.play-again,
+.change-name {
+  height: 50px;
+  width: 175px;
+  border-radius: 80px;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+  border-style: inherit;
+  background-color: darkturquoise;
+  color: rgb(1, 9, 1);
+}
+.play-again:hover,
+.change-name:hover {
+  background-color: rgb(6, 185, 225);
+}
+.play-again {
+  margin-top: 400px;
+  margin-left: 250px;
+  position: absolute;
+}
+.change-name {
+  margin-top: 420px;
+  margin-left: 870px;
+  position: absolute;
+}
+.wins1,
+.wins2 {
+  position: absolute;
+  font-size: 60px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+  margin-left: 500px;
+  visibility: hidden;
+}
+.won {
+  position: absolute;
+  font-size: 60px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+  margin-left: 750px;
+  visibility: hidden;
+}
